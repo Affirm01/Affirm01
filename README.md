@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My name is Ethan Smith, I am currently a student at Clemson University majoring in Computer Science with a minor in Japanese Studies.
+
+- 🔭 I’m currently working on [Spell-Checking Using a Hash Table](https://github.com/Affirm01/Spell-Checker-Using-a-Hash-Table)
+- 🌱 I’m currently learning data structures and algorithms in C++
+- 👯 I’m looking to collaborate with companies or small businesses for part-time work or full-time over the summer internships.
+- 📫 How to reach me: guitaraccess01@gmail.com
+- ✨ Favorite Programming Language: C++
 <!--
 **Affirm01/Affirm01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
