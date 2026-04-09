@@ -4,7 +4,7 @@ My name is Ethan Smith, I am currently a student at Clemson University majoring 
 
 - 🔭 I’m currently working on private school labs
 - 🌱 I’m currently learning Java, Computer Orgs, and GitHub collaboration.
-- 👯 I’m looking to collaborate with companies or small businesses for part-time work or full-time over the summer internships.
+- 👯 I’m looking to collaborate with companies for part-time work, or for full-time work with summer internships.
 - 📫 How to reach me: guitaraccess01@gmail.com
 - ✨ Favorite Programming Language: C++
 <!--
