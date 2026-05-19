@@ -3,10 +3,10 @@
 My name is Ethan Smith, I am currently a student at Clemson University majoring in Computer Science with a minor in Japanese Studies.
 
 - 🔭 I’m currently working on private school labs
-- 🌱 I’m currently learning Java, Computer Orgs, and GitHub collaboration.
+- 🌱 I’m currently learning Java, Assembly, and GitHub collaboration.
 - 👯 I’m looking to collaborate with companies for part-time work, or for full-time work with summer internships.
 - 📫 How to reach me: guitaraccess01@gmail.com
-- ✨ Favorite Programming Language: C++
+- ✨ Favorite Programming Language: C
 <!--
 **Affirm01/Affirm01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
