@@ -2,9 +2,9 @@
 
 My name is Ethan Smith, I am currently a student at Clemson University majoring in Computer Science with a minor in Japanese Studies.
 
-- 🔭 I’m currently working on private school labs
-- 🌱 I’m currently learning Java, Assembly, and GitHub collaboration.
-- 👯 I’m looking to collaborate with companies for part-time work, or for full-time work with summer internships.
+- 🔭 I’m currently working on school projects and learning to tinker with game plugins/mods.
+- 🌱 I’m currently learning Software Development Principles, and GitHub collaboration.
+- 👯 I’m looking to collaborate with companies for part-time work, or for full-time work with internships.
 - 📫 How to reach me: guitaraccess01@gmail.com
 - ✨ Favorite Programming Language: C
 <!--
